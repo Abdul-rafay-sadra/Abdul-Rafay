@@ -1,2 +1,2 @@
-# Abdul-Rafay
+# calculator
 This is my first repository.
